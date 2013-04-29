@@ -1,0 +1,13 @@
+Testsuite: com.wm.ProductControllerTests
+Tests run: 2, Failures: 0, Errors: 0, Time elapsed: 2.325 sec
+------------- Standard Output ---------------
+--Output from testSearchProductbyProductType--
+--Output from testCreateProductService--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testSearchProductbyProductType--
+--Output from testCreateProductService--
+------------- ---------------- ---------------
+
+Testcase: testSearchProductbyProductType took 1.96 sec
+Testcase: testCreateProductService took 0.248 sec

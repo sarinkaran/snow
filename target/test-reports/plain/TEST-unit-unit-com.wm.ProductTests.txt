@@ -1,0 +1,19 @@
+Testsuite: com.wm.ProductTests
+Tests run: 4, Failures: 0, Errors: 0, Time elapsed: 0.711 sec
+------------- Standard Output ---------------
+--Output from testProductCanHaveManyTradeObject--
+--Output from testProductAttributes--
+--Output from testProductRefcanNotbeBlank--
+--Output from testProductTradedOverExchCanNothaveAmountZero--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testProductCanHaveManyTradeObject--
+--Output from testProductAttributes--
+--Output from testProductRefcanNotbeBlank--
+--Output from testProductTradedOverExchCanNothaveAmountZero--
+------------- ---------------- ---------------
+
+Testcase: testProductCanHaveManyTradeObject took 0.473 sec
+Testcase: testProductAttributes took 0.021 sec
+Testcase: testProductRefcanNotbeBlank took 0.131 sec
+Testcase: testProductTradedOverExchCanNothaveAmountZero took 0.019 sec

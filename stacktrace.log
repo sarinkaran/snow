@@ -1,0 +1,390 @@
+2013-04-25 15:07:32,235 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: count for class: com.wm.ProductServiceSpec
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:07:32,240 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: count for class: com.wm.ProductServiceSpec
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:07:32,245 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: count for class: com.wm.ProductServiceSpec
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:07:32,245 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: count for class: com.wm.ProductServiceSpec
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:07:32,254 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: count for class: com.wm.ProductServiceSpec
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:07:32,255 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: count for class: com.wm.ProductServiceSpec
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:08:08,402 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: count for class: com.wm.ProductServiceSpec
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:08:08,403 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: count for class: com.wm.ProductServiceSpec
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:08:08,403 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: count for class: com.wm.ProductServiceSpec
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:08:08,404 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: count for class: com.wm.ProductServiceSpec
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:08:08,404 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: count for class: com.wm.ProductServiceSpec
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:08:08,404 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: count for class: com.wm.ProductServiceSpec
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:12:18,891 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:21)
+2013-04-25 15:12:18,891 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:21)
+2013-04-25 15:12:18,892 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:21)
+2013-04-25 15:12:18,892 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:21)
+2013-04-25 15:12:18,892 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:21)
+2013-04-25 15:12:18,893 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:21)
+2013-04-25 15:12:18,934 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:21)
+2013-04-25 15:12:18,935 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:21)
+2013-04-25 15:12:18,935 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:21)
+2013-04-25 15:12:18,936 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:21)
+2013-04-25 15:12:18,936 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:21)
+2013-04-25 15:12:18,936 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:21)
+2013-04-25 15:12:18,973 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:21)
+2013-04-25 15:12:18,973 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:21)
+2013-04-25 15:12:18,973 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:21)
+2013-04-25 15:12:18,974 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:21)
+2013-04-25 15:12:18,974 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:21)
+2013-04-25 15:12:18,974 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:21)
+2013-04-25 15:12:50,515 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:12:50,515 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:12:50,534 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:12:50,534 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:12:50,534 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:12:50,535 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:12:50,588 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:12:50,588 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:12:50,589 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:12:50,589 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:12:50,589 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:12:50,589 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:12:50,629 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:12:50,629 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:12:50,629 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:12:50,629 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:12:50,630 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:12:50,630 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:13:07,507 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: count for class: com.wm.ProductServiceSpec
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:13:07,508 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: count for class: com.wm.ProductServiceSpec
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:13:07,508 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: count for class: com.wm.ProductServiceSpec
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:13:07,508 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: count for class: com.wm.ProductServiceSpec
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:13:07,509 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: count for class: com.wm.ProductServiceSpec
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:13:07,509 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: count for class: com.wm.ProductServiceSpec
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:13:23,953 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:13:23,953 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:13:23,953 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:13:23,953 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:13:23,954 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:13:23,954 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:13:23,989 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:13:23,989 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:13:23,990 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:13:23,990 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:13:23,990 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:13:23,990 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:13:24,016 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:13:24,016 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:13:24,017 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:13:24,017 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:13:24,017 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:13:24,017 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:19:37,142 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:19:37,143 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:19:37,143 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:19:37,143 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:19:37,143 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:19:37,143 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:19:37,178 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:19:37,178 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:19:37,178 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:19:37,178 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:19:37,179 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:19:37,179 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:19:37,204 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:19:37,205 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:19:37,205 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:19:37,205 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:19:37,205 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:19:37,205 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:21:09,401 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:21:09,401 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:21:09,402 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:21:09,402 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:21:09,402 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:21:09,402 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:21:09,442 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:21:09,442 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:21:09,442 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:21:09,442 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:21:09,442 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:21:09,443 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:21:09,470 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:21:09,470 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:21:09,471 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:21:09,471 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:21:09,471 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:21:09,471 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method size() on null object
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:32:09,245 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+count  == service.searchByProductType(query).size()
+|      |  |       |                   |      |
+1      |  |       []                  |      0
+       |  |                           futurex
+       |  com.wm.ProductService@4089cc0
+       false
+
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:32:09,250 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+count  == service.searchByProductType(query).size()
+|      |  |       |                   |      |
+1      |  |       []                  |      0
+       |  |                           futurex
+       |  com.wm.ProductService@4089cc0
+       false
+
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:32:09,270 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+count  == service.searchByProductType(query).size()
+|      |  |       |                   |      |
+1      |  |       []                  |      0
+       |  |                           futurex
+       |  com.wm.ProductService@4089cc0
+       false
+
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:32:09,270 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+count  == service.searchByProductType(query).size()
+|      |  |       |                   |      |
+1      |  |       []                  |      0
+       |  |                           futurex
+       |  com.wm.ProductService@4089cc0
+       false
+
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:32:09,274 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+count  == service.searchByProductType(query).size()
+|      |  |       |                   |      |
+1      |  |       []                  |      0
+       |  |                           futurex
+       |  com.wm.ProductService@4089cc0
+       false
+
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)
+2013-04-25 15:32:09,274 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+count  == service.searchByProductType(query).size()
+|      |  |       |                   |      |
+1      |  |       []                  |      0
+       |  |                           futurex
+       |  com.wm.ProductService@4089cc0
+       false
+
+	at com.wm.ProductServiceSpec.searchByProductType () should return '#count' results for query '#query'(ProductServiceSpec.groovy:20)

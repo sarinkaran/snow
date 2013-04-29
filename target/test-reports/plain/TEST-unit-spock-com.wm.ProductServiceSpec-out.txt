@@ -1,0 +1,1 @@
+--Output from searchByProductType () should return '#count' results for query '#query'--

@@ -1,0 +1,4 @@
+--Output from testProductCanHaveManyTradeObject--
+--Output from testProductAttributes--
+--Output from testProductRefcanNotbeBlank--
+--Output from testProductTradedOverExchCanNothaveAmountZero--

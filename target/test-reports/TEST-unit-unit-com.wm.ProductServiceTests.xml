@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="dluksarin05871" name="com.wm.ProductServiceTests" tests="1" time="0.24" timestamp="2013-04-29T06:34:22">
+  <properties />
+  <testcase classname="com.wm.ProductServiceTests" name="testSomething" time="0.021" />
+  <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+  <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+</testsuite>

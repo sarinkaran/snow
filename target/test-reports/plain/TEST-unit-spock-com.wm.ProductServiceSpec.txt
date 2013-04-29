@@ -1,0 +1,10 @@
+Testsuite: com.wm.ProductServiceSpec
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 1.102 sec
+------------- Standard Output ---------------
+--Output from searchByProductType () should return '#count' results for query '#query'--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from searchByProductType () should return '#count' results for query '#query'--
+------------- ---------------- ---------------
+
+Testcase: searchByProductType () should return '#count' results for query '#query' took 1.092 sec
