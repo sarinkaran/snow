@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="dluksarin05871" name="com.wm.ProductTests" tests="4" time="0.711" timestamp="2013-04-29T06:34:22">
+<testsuite errors="0" failures="0" hostname="dluksarin05871" name="com.wm.ProductTests" tests="4" time="0.738" timestamp="2013-04-30T09:25:47">
   <properties />
-  <testcase classname="com.wm.ProductTests" name="testProductCanHaveManyTradeObject" time="0.473" />
-  <testcase classname="com.wm.ProductTests" name="testProductAttributes" time="0.021" />
-  <testcase classname="com.wm.ProductTests" name="testProductRefcanNotbeBlank" time="0.131" />
-  <testcase classname="com.wm.ProductTests" name="testProductTradedOverExchCanNothaveAmountZero" time="0.019" />
-  <system-out><![CDATA[--Output from testProductCanHaveManyTradeObject--
---Output from testProductAttributes--
+  <testcase classname="com.wm.ProductTests" name="testProductTradedOverExchCanNothaveAmountZero" time="0.527" />
+  <testcase classname="com.wm.ProductTests" name="testProductRefcanNotbeBlank" time="0.025" />
+  <testcase classname="com.wm.ProductTests" name="testProductAttributes" time="0.022" />
+  <testcase classname="com.wm.ProductTests" name="testProductCanHaveManyTradeObject" time="0.092" />
+  <system-out><![CDATA[--Output from testProductTradedOverExchCanNothaveAmountZero--
 --Output from testProductRefcanNotbeBlank--
---Output from testProductTradedOverExchCanNothaveAmountZero--
+--Output from testProductAttributes--
+--Output from testProductCanHaveManyTradeObject--
 ]]></system-out>
-  <system-err><![CDATA[--Output from testProductCanHaveManyTradeObject--
---Output from testProductAttributes--
+  <system-err><![CDATA[--Output from testProductTradedOverExchCanNothaveAmountZero--
 --Output from testProductRefcanNotbeBlank--
---Output from testProductTradedOverExchCanNothaveAmountZero--
+--Output from testProductAttributes--
+--Output from testProductCanHaveManyTradeObject--
 ]]></system-err>
 </testsuite>

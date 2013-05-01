@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <testsuites>
-  <testsuite errors="0" failures="0" hostname="dluksarin05871" id="0" name="ProductServiceSpec" package="com.wm" tests="1" time="1.102" timestamp="2013-04-29T06:34:23">
+  <testsuite errors="0" failures="0" hostname="dluksarin05871" id="0" name="ProductServiceSpec" package="com.wm" tests="1" time="1.107" timestamp="2013-04-30T09:25:49">
       <properties />
 
-      <testcase classname="com.wm.ProductServiceSpec" name="searchByProductType () should return &apos;#count&apos; results for query &apos;#query&apos;" time="1.092" />
+      <testcase classname="com.wm.ProductServiceSpec" name="searchByProductType () should return &apos;#count&apos; results for query &apos;#query&apos;" time="1.098" />
 
       <system-out><![CDATA[--Output from searchByProductType () should return '#count' results for query '#query'--
 ]]></system-out>
@@ -12,12 +12,12 @@
 ]]></system-err>
 
   </testsuite>
-  <testsuite errors="0" failures="0" hostname="dluksarin05871" id="1" name="ProductControllerTests" package="com.wm" tests="2" time="2.325" timestamp="2013-04-29T06:34:19">
+  <testsuite errors="0" failures="0" hostname="dluksarin05871" id="1" name="ProductControllerTests" package="com.wm" tests="2" time="3.851" timestamp="2013-04-30T09:25:43">
       <properties />
 
-      <testcase classname="com.wm.ProductControllerTests" name="testSearchProductbyProductType" time="1.96" />
+      <testcase classname="com.wm.ProductControllerTests" name="testSearchProductbyProductType" time="2.648" />
 
-      <testcase classname="com.wm.ProductControllerTests" name="testCreateProductService" time="0.248" />
+      <testcase classname="com.wm.ProductControllerTests" name="testCreateProductService" time="1.093" />
 
       <system-out><![CDATA[--Output from testSearchProductbyProductType--
 --Output from testCreateProductService--
@@ -28,10 +28,10 @@
 ]]></system-err>
 
   </testsuite>
-  <testsuite errors="0" failures="0" hostname="dluksarin05871" id="2" name="ProductServiceTests" package="com.wm" tests="1" time="0.24" timestamp="2013-04-29T06:34:22">
+  <testsuite errors="0" failures="0" hostname="dluksarin05871" id="2" name="ProductServiceTests" package="com.wm" tests="1" time="0.345" timestamp="2013-04-30T09:25:47">
       <properties />
 
-      <testcase classname="com.wm.ProductServiceTests" name="testSomething" time="0.021" />
+      <testcase classname="com.wm.ProductServiceTests" name="testSomething" time="0.024" />
 
       <system-out><![CDATA[--Output from testSomething--
 ]]></system-out>
@@ -40,34 +40,34 @@
 ]]></system-err>
 
   </testsuite>
-  <testsuite errors="0" failures="0" hostname="dluksarin05871" id="3" name="ProductTests" package="com.wm" tests="4" time="0.711" timestamp="2013-04-29T06:34:22">
+  <testsuite errors="0" failures="0" hostname="dluksarin05871" id="3" name="ProductTests" package="com.wm" tests="4" time="0.738" timestamp="2013-04-30T09:25:47">
       <properties />
 
-      <testcase classname="com.wm.ProductTests" name="testProductCanHaveManyTradeObject" time="0.473" />
+      <testcase classname="com.wm.ProductTests" name="testProductTradedOverExchCanNothaveAmountZero" time="0.527" />
 
-      <testcase classname="com.wm.ProductTests" name="testProductAttributes" time="0.021" />
+      <testcase classname="com.wm.ProductTests" name="testProductRefcanNotbeBlank" time="0.025" />
 
-      <testcase classname="com.wm.ProductTests" name="testProductRefcanNotbeBlank" time="0.131" />
+      <testcase classname="com.wm.ProductTests" name="testProductAttributes" time="0.022" />
 
-      <testcase classname="com.wm.ProductTests" name="testProductTradedOverExchCanNothaveAmountZero" time="0.019" />
+      <testcase classname="com.wm.ProductTests" name="testProductCanHaveManyTradeObject" time="0.092" />
 
-      <system-out><![CDATA[--Output from testProductCanHaveManyTradeObject--
---Output from testProductAttributes--
+      <system-out><![CDATA[--Output from testProductTradedOverExchCanNothaveAmountZero--
 --Output from testProductRefcanNotbeBlank--
---Output from testProductTradedOverExchCanNothaveAmountZero--
+--Output from testProductAttributes--
+--Output from testProductCanHaveManyTradeObject--
 ]]></system-out>
 
-      <system-err><![CDATA[--Output from testProductCanHaveManyTradeObject--
---Output from testProductAttributes--
+      <system-err><![CDATA[--Output from testProductTradedOverExchCanNothaveAmountZero--
 --Output from testProductRefcanNotbeBlank--
---Output from testProductTradedOverExchCanNothaveAmountZero--
+--Output from testProductAttributes--
+--Output from testProductCanHaveManyTradeObject--
 ]]></system-err>
 
   </testsuite>
-  <testsuite errors="0" failures="0" hostname="dluksarin05871" id="4" name="TradeTests" package="com.wm" tests="1" time="0.057" timestamp="2013-04-29T06:34:23">
+  <testsuite errors="0" failures="0" hostname="dluksarin05871" id="4" name="TradeTests" package="com.wm" tests="1" time="0.309" timestamp="2013-04-30T09:25:48">
       <properties />
 
-      <testcase classname="com.wm.TradeTests" name="testSomething" time="0.055" />
+      <testcase classname="com.wm.TradeTests" name="testSomething" time="0.083" />
 
       <system-out><![CDATA[--Output from testSomething--
 ]]></system-out>

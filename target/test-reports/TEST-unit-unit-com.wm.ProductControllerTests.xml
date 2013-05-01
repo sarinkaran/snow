@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="dluksarin05871" name="com.wm.ProductControllerTests" tests="2" time="2.325" timestamp="2013-04-29T06:34:19">
+<testsuite errors="0" failures="0" hostname="dluksarin05871" name="com.wm.ProductControllerTests" tests="2" time="3.851" timestamp="2013-04-30T09:25:43">
   <properties />
-  <testcase classname="com.wm.ProductControllerTests" name="testSearchProductbyProductType" time="1.96" />
-  <testcase classname="com.wm.ProductControllerTests" name="testCreateProductService" time="0.248" />
+  <testcase classname="com.wm.ProductControllerTests" name="testSearchProductbyProductType" time="2.648" />
+  <testcase classname="com.wm.ProductControllerTests" name="testCreateProductService" time="1.093" />
   <system-out><![CDATA[--Output from testSearchProductbyProductType--
 --Output from testCreateProductService--
 ]]></system-out>

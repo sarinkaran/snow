@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="dluksarin05871" name="com.wm.ProductServiceSpec" tests="1" time="1.102" timestamp="2013-04-29T06:34:23">
+<testsuite errors="0" failures="0" hostname="dluksarin05871" name="com.wm.ProductServiceSpec" tests="1" time="1.107" timestamp="2013-04-30T09:25:49">
   <properties />
-  <testcase classname="com.wm.ProductServiceSpec" name="searchByProductType () should return &apos;#count&apos; results for query &apos;#query&apos;" time="1.092" />
+  <testcase classname="com.wm.ProductServiceSpec" name="searchByProductType () should return &apos;#count&apos; results for query &apos;#query&apos;" time="1.098" />
   <system-out><![CDATA[--Output from searchByProductType () should return '#count' results for query '#query'--
 ]]></system-out>
   <system-err><![CDATA[--Output from searchByProductType () should return '#count' results for query '#query'--
